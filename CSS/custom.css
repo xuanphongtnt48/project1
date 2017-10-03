@@ -1,0 +1,44 @@
+body{
+	background-color: white;
+}
+.webtitle{
+	color: orange;
+}
+.nab{
+	flex-basis: 100%;
+	align-items: left;
+}
+.btn{
+	background-color: black;
+	text-decoration-color: orange;
+}
+
+.jonhead{
+	background-image: url("1339_by_slug22-d5qvfk0.jpg");
+}
+
+.bt{
+	background-color: blue;
+	text-decoration-color:  white ;
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	user-select: none;
+    border: 1px solid transparent;
+    border-color: blue; 
+    padding: .5rem .75rem;
+    padding-color: blue;
+    font-size: 1rem;
+    line-height: 1.25;
+    border-radius: .25rem;
+    transition: all .15s ease-in-out;
+}
+.btn-success{
+	background-color: #4CAE50;
+	border-width: 400px;
+	a{
+	text-decoration-color: F6F9F6;
+}
+}
